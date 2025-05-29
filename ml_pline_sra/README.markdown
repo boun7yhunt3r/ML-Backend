@@ -127,7 +127,7 @@ evt_003,789,123,0
 - **Port Conflicts**: Check that port `8000` is free or modify the Docker run command.
 - **Prediction Errors**: Ensure input values are valid numbers to avoid preprocessing failures.
 
-# Interview Preparation Tips
+# Why or why not?
 
 - **Explain Trade-offs**: Discuss why Logistic Regression was chosen (fast, interpretable) vs. Random Forest (more accurate, slower).
 - **Optimization for Scale**: Highlight using Spark for large datasets or caching for frequent predictions.
