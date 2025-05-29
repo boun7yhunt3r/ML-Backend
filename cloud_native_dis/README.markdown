@@ -136,7 +136,7 @@ The `.github/workflows/ci.yml` defines a GitHub Actions workflow that:
 - **Port Conflicts**: Confirm port `8000` is free or modify `docker-compose.yml`.
 - **CI/CD Failures**: Add a `tests` directory with pytest test cases to enable the GitHub Actions workflow.
 
-# Interview Preparation Tips
+# Why or whynot
 
 - **Explain Design**: Discuss why PostgreSQL was chosen (scalable, robust) over SQLite and how the service simulates cloud-native ingestion.
 - **Error Handling**: Highlight IP and timestamp validation and database error handling, aligning with MATVIS’s security focus.
