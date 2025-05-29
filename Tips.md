@@ -1,4 +1,4 @@
-# Interview Follow-Up Questions: API and ML Pipeline Optimization
+# API and ML Pipeline Optimization
 
 # Table of Contents
 
